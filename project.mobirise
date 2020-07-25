@@ -47,14 +47,21 @@
     ],
     "uniqCompNum": 33,
     "versionPublish": "4.12.4",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/renko-digital-logo-128x128-1.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Renko Digital | Social Media Marketing Agency Australia",
+        "meta_descr": "Renko Digital is a social media agency based in Australia that specialises in social media marketing and lead generation across various industries including, e-commerce, real estate, health and fitness and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
